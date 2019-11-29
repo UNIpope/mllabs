@@ -1,0 +1,11 @@
+Feature , Count , % Miss. , Card. , Mode , Mode Freq. , Mode % , 2nd Mode , 2nd Mode Freq. , 2nd Mode %
+  job , 24299, 0.65, 12,  JobCat3 , 5197, 21.39,  JobCat6 , 5049, 20.78 
+  marital , 24299, 0, 3,  married , 14627, 60.2,  single , 6879, 28.31 
+  education , 24299, 4.0, 4,  secondary , 12505, 51.47,  tertiary , 7058, 29.05 
+  default , 24299, 0, 2,  no , 23852, 98.16,  yes , 447, 1.84 
+  housing , 24299, 0, 2,  yes , 13522, 55.65,  no , 10777, 44.35 
+  loan , 24299, 0, 2,  no , 20333, 83.68,  yes , 3966, 16.32 
+  contact , 24299, 29.01, 3,  cellular , 15673, 64.58,  unknown , 7050, 29.05 
+  month , 24299, 0, 12,  may , 7447, 30.65,  jul , 3751, 15.44 
+  poutcome , 24299, 81.3, 4,  unknown , 19755, 81.57,  failure , 2726, 11.26 
+  target , 24299, 0, 2,  no , 21487, 88.43,  yes , 2812, 11.57 
